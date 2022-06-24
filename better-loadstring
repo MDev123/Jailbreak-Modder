@@ -1,1 +1,5 @@
+-- Prototype loadstring
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MDev123/Jailbreak-Modder/main/main%22))()
+
+-- Alpha loadstring
