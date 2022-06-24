@@ -1,0 +1,3 @@
+-- Paste what is below this text into your executor for it to work! --
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MDev123/Jailbreak-Modder/main/main"))
