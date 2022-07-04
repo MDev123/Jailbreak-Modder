@@ -1,6 +1,6 @@
 -- Prototype loadstring
 
-loadstring(game:HttpGet("https://gist.githubusercontent.com/MDev123/cc70dc076bacaa7107314c621a8cb123/raw/b72269039db6fb092d200d300d69e57360ad1ae7/JAIL-CODE"))
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MDev123/cc70dc076bacaa7107314c621a8cb123/raw/b72269039db6fb092d200d300d69e57360ad1ae7/JAIL-CODE"), true)
 
 -- Alpha loadstring
 
